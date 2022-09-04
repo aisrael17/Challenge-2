@@ -28,3 +28,21 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+def save_csv(csvpath, data, header=None):
+    """Saves the csv file from a provided file path.
+    
+    Args:
+        csvpath (Path): csv file path
+        data (list of lists): Data to include in the csv file
+        header (list): A header for the csv file, optional
+        
+    """
+    
+    with open(csvpath, "w", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=",")
+        if header:
+            csvwriter.writerow(header)
+        csvwriter.writerows(data)
+    
+    return True

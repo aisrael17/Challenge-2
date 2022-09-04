@@ -1,0 +1,589 @@
+   50  conda
+   51  export PATH=/path/to/anaconda3/bin:$PATH\n/Users/andrewisrael/opt
+   52  cd /Users
+   53  cd /andrewisrael
+   54  ls
+   55  cd andrewisrael
+   56  ls
+   57  ls
+   58  cd opt
+   59  ls
+   60  ls
+   61  path
+   62  PATH
+   63  bash ~/Downloads/Anaconda3-2020.02-MacOSX-x86_64.sh\n
+   64  bash ~/Downloads/Anaconda3-2021.11-MacOSX-x86_64.sh\n
+   65  /Users/andrewisrael/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   66  python3
+   67  conda
+   68  export PATH = "/Users/andrewisrael/anaconda3/bin:$PATH"
+   69  echo $ZSH_VERSION
+   70  /Users/andrewisrael
+   71  ls -l
+   72  /Users/andrewisrael/opt/anaconda3 
+   73  export PATH = "/Users/andrewisrael/opt/anaconda3/bin:$PATH"
+   74  export PATH = "/Users/andrewisrael/opt/anaconda3/bin:$PATH"
+   75  /Users/andrewisrael/opt/anaconda3
+   76  conda update conda
+   77  export PATH=”/anaconda3/bin”:$PATH.
+   78  conda
+   79  export PATH="/anaconda3/bin":$PATH
+   80  conda
+   81  ls
+   82  export PATH="/opt/anaconda3/bin":$PATH
+   83  export PATH="/opt/anaconda3/bin:$PATH"
+   84  ls
+   85  conda
+   86  conda update conda
+   87  ls
+   88  cd opt
+   89  ls
+   90  cd .
+   91  cd ..
+   92  ls
+   93  export PATH="/home/username/miniconda/bin:$PATH"
+   94  ls
+   95  export PATH="/opt/anaconda3/bin:$PATH"
+   96  conda --version
+   97  source ~/anaconda3/bin/activate\n
+   98  source /opt/anaconda3/bin/activate
+   99  /opt
+  100  export PATH="/Desktop/opt/anaconda3/bin:$PATH"
+  101  conda
+  102  conda
+  103  bash ~/Downloads/Anaconda3-2020.02-MacOSX-x86_64.sh\n
+  104  bash ~/Downloads/Anaconda3-2021.11-MacOSX-x86_64.pkg
+  105  bash ~/Downloads/Anaconda3-2021.11-MacOSX-x86_64.sh
+  106  conda --version
+  107  ls
+  108  cd Desktop
+  109  ls
+  110  mkdir Data Science
+  111  cd Data Science
+  112  cd 'Data Science'
+  113  ls
+  114  cd Data
+  115  ls
+  116  mkdir Credmark
+  117  cd Credmark
+  118  git clone https://github.com/aisrael17/credmark-models-py.git
+  119  ls
+  120  cd credmark-models-py
+  121  ls
+  122  code .
+  123  code .
+  124  /usr/bin/python3 -m pip install -U pylint
+  125  pip install -r
+  126  pip install -r requirements.txt
+  127  pip install -r requirements-dev.txt
+  128  credmark -devlist
+  129  credmark-dev list
+  130  ls
+  131  ls -a
+  132  conda activate .env
+  133  conda active env
+  134  conda activate env
+  135  python3 
+  136  conda --version
+  137  pip 
+  138  pip install line_profiler
+  139  pip install memory_profiler
+  140  pip install credmark.cmf.model
+  141  conda activate Credmark
+  142  pip install numpy
+  143  conda list
+  144  pip install pandas
+  145  pip install pylint
+  146  conda list env
+  147  conda env list
+  148  pip install --file /Users/andrewisrael/Desktop/Data\ Science/Credmark/credmark-models-py/requirements.txt 
+  149  pip install -r /Users/andrewisrael/Desktop/Data\ Science/Credmark/credmark-models-py/requirements.txt 
+  150  pip install -r /Users/andrewisrael/Desktop/Data\ Science/Credmark/credmark-models-py/requirements-dev.txt
+  151  conda install spyder-kernels
+  152  python -c "import sys; print(sys.executable)"
+  153  deactivate
+  154  conda deactivate
+  155  conda install spyder‑kernels=2.1
+  156  conda active Credmark
+  157  conda activate Credmark
+  158  conda install spyder‑kernels=2.1
+  159  conda deactivate
+  160  conda install spyder-kernels
+  161  conda activate Credmark
+  162  pip install spyder‑kernels==2.1.*
+  163  conda install spyder-kernels=2.1
+  164  conda install idna
+  165  conda install requests
+  166  conda install -r requirements.txt
+  167  pip install -r requirements.txt
+  168  ls
+  169  pip install -r /Users/andrewisrael/Desktop/Data\ Science/Credmark/credmark-models-py/requirements.txt 
+  170  pip install -r /Users/andrewisrael/Desktop/Data\ Science/Credmark/credmark-models-py/requirements-dev.txt 
+  171  conda install typing_extensions
+  172  pip install requests
+  173  pip install matplotlib
+  174  pip install pyparsing
+  175  pip uninstall pyparsing
+  176  pip install pyparsing
+  177  /Users/andrewisrael/anaconda3/bin/jupyter_mac.command ; exit;
+  178  git config --global user.name
+  179  git config --global user.name "aisrael"
+  180  git config --global user.name
+  181  git config
+  182  git config --global user.email "aisrael123@gmail.com"
+  183  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  184  ls -al ~/.ssh
+  185  ssh-keygen -t rsa -b 4096 -C "aisrael123@gmail.com"
+  186  eval "$(ssh-agent –s)"
+  187  eval "$(ssh-agent -s)"
+  188  ssh-add ~/.ssh/id_rsa
+  189  pbcopy < ~/.sssh/id_rsa.pub
+  190  pbcopy < ~/.ssh/id_rsa.pub
+  191  ssh -T git@github.com
+  192  conda --version
+  193  conda update conda
+  194  conda update conda
+  195  conda update anaconda
+  196  conda create -n dev python=3.7 anaconda
+  197  conda activate dev
+  198  conda init zsh
+  199  conda activate dev
+  200  jupyter lab
+  201  conda deactivate
+  202  pwd
+  203  ls
+  204  cd Desktop
+  205  ls
+  206  cd 'Columbia FinTech Bootcamp'
+  207  ls
+  208  mkdir 'FINTECH-WORKSPACE'
+  209  ls
+  210  ls
+  211  cd FINTECH-WORKSPACE
+  212  cd Python_Project
+  213  conda activate dev
+  214  python --version
+  215  code .
+  216  python hello_python.py
+  217  code .
+  218  conda deactivate
+  219  ls
+  220  cd ..
+  221  ls
+  222  cd ..
+  223  ls
+  224  cd Modules
+  225  ls
+  226  cd `Module 1`
+  227  cd 'Module 1'
+  228  ls
+  229  cd Desktop
+  230  ls
+  231  cd 'Columbia FinTech Bootcamp'
+  232  ls
+  233  cd Modules
+  234  ls
+  235  cd Module 1
+  236  cd 'Module 1'
+  237  ls
+  238  cd '01_Hello_Variable_World'
+  239  ls
+  240  cd Unsolved
+  241  ls
+  242  conda activate deve
+  243  conda activate dev
+  244  python hello_variable_world.py
+  245  cd ..
+  246  ls
+  247  cd ..
+  248  ls
+  249  cd 02_Listing_Assets
+  250  ls
+  251  cd S
+  252  cd Solved
+  253  ls
+  254  code .
+  255  cd ..
+  256  cd Unsolved
+  257  ls
+  258  code .
+  259  python listing_assets.py
+  260  cd ..
+  261  ls
+  262  cd ..
+  263  cd 03_The_401k_Shuffle
+  264  cd Unsolved
+  265  ls
+  266  code .
+  267  cd ..
+  268  cd ..
+  269  ls
+  270  cd 03_The_401k_Shuffle
+  271  ls
+  272  cd Unsolved
+  273  ls
+  274  python the_401k_shuffle.py
+  275  conda deactivate
+  276  pwd
+  277  ls
+  278  cd D
+  279  cd Desktop
+  280  ls
+  281  cd Columbia\ FinTech\ Bootcamp
+  282  ls
+  283  cd Mod
+  284  cd Modules
+  285  ls
+  286  cd Module\ 1
+  287  ls
+  288  cd 01_Conditional_Statement
+  289  ls
+  290  cd Unsolved
+  291  ls
+  292  code .
+  293  code .
+  294  code .
+  295  conda activate dev
+  296  python conditional_statement.py
+  297  python conditional_statement.py
+  298  cd ..
+  299  cd ..
+  300  cd 02_Nested_Conditionals
+  301  cd Unsolved
+  302  code .
+  303  cd ...
+  304  cd ....
+  305  cd .. .. 
+  306  cd ..
+  307  cd ..
+  308  cd 03~S
+  309  cd 03_Split_Second_Homebuying
+  310  ls
+  311  cd Unsolved
+  312  code .
+  313  python split_second_homebuying.py
+  314  cd ..
+  315  cd Solved
+  316  code .
+  317  python split_second_homebuying.py
+  318  cd ..
+  319  cd ..
+  320  cd 01_A_Definitive_Buy
+  321  ls
+  322  cd Unsolved
+  323  code .
+  324  python a_definitive_buy.py
+  325  cd ..
+  326  cd ..
+  327  cd 02_Returned_Goods
+  328  cd Unsolved
+  329  ls
+  330  code .
+  331  python returned_goods.py
+  332  cd ..
+  333  cd..
+  334  cd ..
+  335  ls
+  336  cd 03_Split_Second_Homebuying
+  337  ls
+  338  cd Unsolved
+  339  code .
+  340  cd ..
+  341  cd ..
+  342  cd 03_Split_Second_Homebuying_Part_2
+  343  cd Unsolved
+  344  code .
+  345  python split_second_part_2.py
+  346  python split_second_part_2.py
+  347  jupyter
+  348  jupyter run
+  349  jupyter run
+  350  ls
+  351  cd 
+  352  ls
+  353  printenv > /var/folders/_y/wdgk1s_j53gc1hxpm686sh9w0000gn/T/tmp-15630mlRcxSO6KJGutxt
+  354  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  355  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  356  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  357  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  358  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  359  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  360  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  361  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  362  python pathways_to_success_part_2.py
+  363  ls
+  364  cd Unsolved
+  365  python pathways_to_success_part_2.py
+  366  conda activate dev
+  367  python pathways_to_success_part_2.py
+  368  pip install pathlib
+  369  python pathways_to_success_part_2.py
+  370  python3 -m pip install pathlib
+  371  python pathways_to_success_part_2.py
+  372  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  373  /usr/bin/python3
+  374  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  375  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  376  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  377  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  378  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py"
+  379  ls
+  380  ls
+  381  ls
+  382  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py"
+  383  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py"
+  384  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py"
+  385  /usr/bin/python3
+  386  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py"
+  387  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py"
+  388  print('sup')
+  389  print('sup')
+  390  print('sup')
+  391  def calculate_future_value(current_loan_value, annual_interest_rate, months_remaining):
+  392      future_value = current_loan_value * (1 + (annual_interest_rate)) ** months_remaining
+  393      return future_value
+  394  # The new_car_loan dictionary
+  395  new_car_loan = {
+  396      "current_loan_value": 25000,
+  397      "months_remaining": 6,
+  398      "annual_interest_rate": 0.085
+  399  print('sup')
+  400  # @TODO: Call the calculate_future_value function, passing the relevant information from the new_car_loan dictionary as parameters.
+  401  # @TODO:Be sure to set the function call equal to a variable called cost_of_new_car.
+  402  # @TODO:Print the cost_of_new_car. Be sure to round the figure to 2 decimal places.
+  403  print('sup')
+  404  def calculate_future_value(current_loan_value, annual_interest_rate, months_remaining):
+  405      future_value = current_loan_value * (1 + (annual_interest_rate)) ** months_remaining
+  406      return future_value
+  407  # The new_car_loan dictionary
+  408  new_car_loan = {
+  409      "current_loan_value": 25000,
+  410      "months_remaining": 6,
+  411      "annual_interest_rate": 0.085
+  412  print('sup')
+  413  # @TODO: Call the calculate_future_value function, passing the relevant information from the new_car_loan dictionary as parameters.
+  414  # @TODO:Be sure to set the function call equal to a variable called cost_of_new_car.
+  415  # @TODO:Print the cost_of_new_car. Be sure to round the figure to 2 decimal places.
+  416  python
+  417  jupyter notebook
+  418  cd Desktop
+  419  ls
+  420  cd Columbia\ FinTech\ Bootcamp
+  421  ls
+  422  cd Untitled\ Folder
+  423  ls
+  424  conda activate dev
+  425  python Percent\ Increase\ Activity.py
+  426  python Percent\ Increase\ Activity.py
+  427  python Percent\ Increase\ Activity.py
+  428  python Percent\ Increase\ Activity.py
+  429  python Percent\ Increase\ Activity.py
+  430  python Percent\ Increase\ Activity.py
+  431  python Percent\ Increase\ Activity.py
+  432  python Percent\ Increase\ Activity.py
+  433  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py"
+  434  /usr/bin/python3
+  435  /usr/bin/python3
+  436  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  437  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  438  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  439  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Bootcamp-Homework/Challenge 1/loan_analyzer.py"
+  440  python
+  441  python3
+  442  ls
+  443  cd ..
+  444  ls
+  445  git add .
+  446  git commit -m "First Draft of Challenge 1"
+  447  git push origin main
+  448  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  449  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  450  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py"
+  451  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Bootcamp-Homework/Challenge 1/loan_analyzer.py"
+  452  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Bootcamp-Homework/Challenge 1/loan_analyzer.py"
+  453  git add .
+  454  git commit -m "final edits"
+  455  git push
+  456  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Bootcamp-Homework/Challenge 1/loan_analyzer.py"
+  457  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  458  conda activate dev
+  459  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  460  pip install fire
+  461  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  462  python3 cli.py
+  463  ls
+  464  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  465  ls
+  466  conda activate dev
+  467  python3 cli.py
+  468  ls
+  469  pip install fire
+  470  conda deactivate
+  471  pip install fire
+  472  python3 cli.y
+  473  python3 cli.py
+  474  python cli.py
+  475  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  476  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  477  conda activate dev
+  478  python3 cli.py
+  479  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  480  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  481  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  482  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  483  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  484  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  485  python cli.py --pants=True
+  486  python3 cli.py --pants=True
+  487  dev cli.py --pants=True
+  488  cli.py
+  489  python cli.py --pants=True
+  490  conda activate dev
+  491  /Users/andrewisrael/anaconda3/envs/dev/bin/python "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Modules/Module 2/cli.py"
+  492  python cli.py
+  493  which python
+  494  which python3
+  495  ls
+  496  cd Desktop
+  497  ls
+  498  cd Columbia\ FinTech\ Bootcamp
+  499  ls
+  500  git clone https://github.com/aisrael17/Bootcamp-Homework.git
+  501  ls
+  502  cd Bootcamp-Homework
+  503  git pull
+  504  ls
+  505  cd Challenge\ 1
+  506  ls
+  507  code .
+  508  ls
+  509  git add .
+  510  git push
+  511  conda activate dev
+  512  pip -V
+  513  pip freeze
+  514  pip install fire
+  515  pip install questionary
+  516  ls
+  517  cd ..
+  518  cd ..
+  519  cd Modules
+  520  ls
+  521  cd Module 2
+  522  ls
+  523  cd Module \2
+  524  ls
+  525  cd Module\ 2
+  526  ls
+  527  cd 01_Loan_Qualifier_Financial_Calculations
+  528  ls
+  529  cd Unsolved
+  530  ls
+  531  code app.py
+  532  code .
+  533  cd ..
+  534  cd ..
+  535  cd 02_Loan_Qualifier_Filtering_Data
+  536  cd Unsolved
+  537  code .
+  538  cd ..
+  539   cd..
+  540  cd ..
+  541  cd 01_Modularize_Your_Loan_Qualifier_Application
+  542  ls
+  543  code .
+  544  cd ..
+  545  cd 01_
+  546  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  547  code .
+  548  cd Unsolved
+  549  code .
+  550  cd ..
+  551  cd ..
+  552  cd ..
+  553  ls
+  554  cd ..
+  555  ls
+  556  cd Challenges
+  557  ls
+  558  cd ..
+  559  cd Bootcamp-Homework
+  560  ls
+  561  cd Challenge\ 1
+  562  ls
+  563  python3 loan_analyzer.py
+  564  code .
+  565  conda deactivate
+  566  conda activate dev
+  567  pip install fire
+  568  cd ..
+  569  ls
+  570  cd ..
+  571  ls
+  572  cd Modules
+  573  cd Module\ 2
+  574  ls
+  575  touch cli.py
+  576  code cli.py
+  577  code cli.py
+  578  ls
+  579  python3 cli.py
+  580  python cli.py
+  581  python cli.py
+  582  python cli.py --pants=False
+  583  python cli.py 
+  584  python cli.py --pants=True
+  585  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  586  code .
+  587  python app.py --credit_score=750
+  588  cd Unsolved
+  589  python app.py --credit_score=750
+  590  python app.py --credit_score=750
+  591  python app.py --credit_score=750 --debt=5000 --income=60000
+  592  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  593  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  594  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  595  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  596  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  597  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  598  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  599  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  600  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  601  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  602  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  603  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  604  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  605  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  606  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  607  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  608  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  609  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  610  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  611  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  612  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  613  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  614  /usr/bin/python3 "/Users/andrewisrael/Desktop/Columbia FinTech Bootcamp/Live Class Activities/Class_3_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  615  ls
+  616  cd Starter_Code
+  617  ls
+  618  python loan_qualifier_app
+  619  ls
+  620  cd loan_qualifier_app
+  621  ls
+  622  python app.py
+  623  conda activate dev
+  624  python app.py
+  625  python app.py
+  626  python app.py
+  627  python app.py
+  628  python app.py
+  629  python app.py
+  630  python
+  631  ls
+  632  python app.py
+  633  python app.py
+  634  python app.py
+  635  python app.py
+  636  cd ..
+  637  ls
+  638  cd ..
