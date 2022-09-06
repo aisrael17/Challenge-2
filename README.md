@@ -35,7 +35,7 @@ Suppose a user with a credit score of 750, monthly income of \$15,000, and no cu
 
 The user would run `python  app.py` in a development environment supporting the aforementioned packages, then enter in their information described above in response to each questionary prompt. The program would then calculate the qualifying loans for that user and prompt the user to save these loans in a location specified by the user. See an example of this flow below:
 
-![](./images/Challenge 2 Code Example)
+![](./images/Challenge 2 Code Example.png)
 
 ## Contributors
 The starter code was provided by the Columbia Fintech Engineering Bootcamp. The additions required were made solely by me.
