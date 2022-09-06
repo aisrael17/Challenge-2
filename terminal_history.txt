@@ -587,3 +587,8 @@
   636  cd ..
   637  ls
   638  cd ..
+  639  history 50 > terminal_history.txt
+  640  ls
+  641  git add .
+  642  git commit -m "First attempt"
+  643  git push
